@@ -1,2 +1,3 @@
 This is my first file
 This is going to be the second line
+Hello everyone, this is the third line written via Atom
